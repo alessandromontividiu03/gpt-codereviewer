@@ -1,3 +1,4 @@
 openai==0.27.8
 langchain==0.0.199
 streamlit==1.23.1
+requests==2.31.0
